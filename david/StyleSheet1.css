@@ -1,0 +1,50 @@
+﻿
+body {
+    background-color: forestgreen;
+    direction: rtl;
+    text-align: center;
+}       
+h1{
+
+font-style:italic;
+color:black
+}
+#page2 {
+    background-color: forestgreen;
+    direction: rtl; 
+    text-align: center;
+}
+#page2 h1
+{
+color:black
+}
+#Lion {
+        float: right;
+        
+    }
+#page3 {
+    direction: rtl;
+    background-color: forestgreen;
+    text-align: center;
+}
+    #page3 h1 
+    {
+    color:black;
+    }
+#elephent {
+    float: right;
+    width:350px
+}
+#page4 
+{
+direction:rtl;
+background-color:forestgreen;
+text-align:center;
+}
+#leopard
+{
+float:right;
+}
+    
+
+
