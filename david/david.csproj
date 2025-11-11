@@ -68,9 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HtmlPage1.html" />
-    <Content Include="HtmlPage2.html" />
-    <Content Include="HtmlPage3.html" />
-    <Content Include="HtmlPage4.html" />
+    <Content Include="HtmlPage5.html" />
     <Content Include="img\CO88966_5000x-removebg-preview.png" />
     <Content Include="img\images-removebg-preview.png" />
     <Content Include="img\screen_shot-removebg-preview %281%29.png" />
@@ -82,7 +80,8 @@
     <Content Include="img\הורדה-removebg-preview.png" />
     <Content Include="img\חץ.png" />
     <Content Include="img\צילום_מסך_2025-11-01_141555-removebg-preview %285%29.png" />
-    <Content Include="StyleSheet1.css" />
+    <Content Include="JavaScript.js" />
+    <Content Include="StyleSheet2.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
