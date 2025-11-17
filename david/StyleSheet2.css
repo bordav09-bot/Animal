@@ -1,11 +1,48 @@
-﻿body {
-
-}
+﻿
 table,tr,td {
     border:1px solid black;
 }
-table{
+table {
+    border-collapse: collapse;
+    margin: 0px auto;
+    
+}
+.Title {
+    text-align: center;
+    
+}
+.fiction
+{
+    background-color:forestgreen;
+}
+.speaking
+{
+background-color:orange
+}
+.sport {
+    background-color: lightblue;
+}
+.English {
+ background-color:red
+}
+.sentence {
+    background-color:purple;
+    }
+.speak-abilites
+{
+    background-color:yellow;
 
 }
-
+.Computer {
+    background-color:saddlebrown;
+}
+.jews-bible {
+    background-color:deepskyblue;
+}
+.social {
+    background-color:lightgoldenrodyellow;
+}
+.Math {
+    background-color:lightcyan
+}
 
